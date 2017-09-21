@@ -8,3 +8,5 @@
 - Html
 - Bootstrap 3.x
 - Vanilla JS
+
+### Open `index.html` in any browser to get the program running.
